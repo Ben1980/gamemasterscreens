@@ -13,7 +13,8 @@ defineProps({
     <h3>
       You’ve successfully created a project with
       <a target="_blank" href="https://vitejs.dev/">Vite</a> +
-      <a target="_blank" href="https://vuejs.org/">Vue 3</a>.
+      <a target="_blank" href="https://vuejs.org/">Vue 3</a> +
+      <a class="text-1xl font-bold underline" target="_blank" href="https://tailwindcss.com/">Tailwind CSS</a>.
     </h3>
   </div>
 </template>
