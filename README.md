@@ -1,3 +1,4 @@
+# UNFORTUNATELY DEAD DUE TO COPYRIGHT ISSUES
 # gamemasterscreens
 
 Repository of gamemasterscreens.com
